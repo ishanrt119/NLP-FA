@@ -1,0 +1,10 @@
+streamlit
+sentence-transformers
+nltk
+scikit-learn
+PyPDF2
+numpy
+pandas
+torch
+python-dotenv
+requests
